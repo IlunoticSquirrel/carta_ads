@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <body>
+<header>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha carta</title>
+    <style>
+    body {
+     background-image: url('https://i.pinimg.com/736x/6b/ea/12/6bea12ee9c7b069e8bdcf74726fdd299.jpg'); 
+     background-size: cover; 
+     background-position: center; 
+     background-repeat: no-repeat;
+     }
+    </style>
+
+</header>
+<main style="font-family: monospace; width: 600px; height: 480px; border: 2px solid; box-shadow: 5px white; padding: 50px; margin: 20px auto; background-color: azure; background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20210731/pngtree-white-background-spotted-pixel-spotted-gray-white-mosaic-image_755258.jpg'); background-size: cover; background-position: fixed;">
+    <div style="font-size: 35px; font-weight: bold; text-align: center; width: 450px; height: 50px; margin: 0 auto;">Carta de recomendação</div>
+    <div style="margin-top:50px; font-size: 20px; display: inline-block; padding: 10px;">Jaraguá do Sul, 20 de abril de 2026</div>
+    <br>
+    <div style="margin-top: 5px; font-size: 21px; display: inline-block; padding: 10px; color: red">Ao centro de pesquisas Pokémon</div>
+    <br>
+     <div style="margin-top: 20px; text-indent: 80px; text-align: justify; font-size: 21px; display: inline-block; padding: 10px; color: black">Nesta carta, constato que o pokémon CYNDAQUIL, foi trocado na hora de sua incubação, estou há alguns quilômetros longe da cidade do centro citado, recomendo que transfirem meu pokémon ao PC mais próximo, e o mais rápido possível, pois será custoso atravessar esse matagal pokémon de Cerulean city (OBS: Não tenho repelente pokémon). </div>
+     <br>
+      <div style="margin-top: 10px; font-size: 21px; padding: 10px; text-align: right; float:right;">Atenciosamente,
+        <br>
+        Nana
+      </div>
+</main>
+</body>
+</html>
